@@ -1,6 +1,6 @@
 # VI_masterclass
 
-This repository contains materials for the two lectures I gave on the topics of modern Variational inference and deep generative models (mainly VAEs and Normalising flows), as part of the workshop on Variational inference organised jointly by the postdocs of [CoSInES](https://www.cosines.org) and [Bayes4Health](https://www.lancaster.ac.uk/bayes-for-health) projects. 
+This repository contains materials for the two lectures I gave on the topics of modern Variational inference and deep generative models (mainly VAEs and Normalising flows), as part of the [workshop on Variational inference](https://www.cosines.org/news) organised jointly by the postdocs of [CoSInES](https://www.cosines.org) and [Bayes4Health](https://www.lancaster.ac.uk/bayes-for-health) projects. 
 
 Apart from the lecture slides the repository contains three notebook tutorials on the folllowing:
 1. Tutorial on the basic black-box Variational inference mechanics using a [linear regression model](https://github.com/sg5g10/VI_masterclass/blob/main/ADVI_masterclass_Linear_regression.ipynb).
